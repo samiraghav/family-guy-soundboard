@@ -8,9 +8,9 @@ This is a Family Guy soundboard project created by samiraghav. The project is de
 
 
 ##  Clone this repository: git clone https://github.com/samiraghav/family-guy-soundboard.git
-# Install dependencies: npm install
-# Start the server: npm start
-# Open http://localhost:3000 in your browser
+## Install dependencies: npm install
+## Start the server: npm start
+## Open http://localhost:3000 in your browser
 
 
 # Usage
