@@ -3,7 +3,6 @@
 
 This is a Family Guy soundboard project created by samiraghav. The project is designed to allow users to play various sound clips from the popular animated TV show, Family Guy.
 
-Site is live at: https://familiy-guy-scoreboard.netlify.app/
 
 # Installation
 
